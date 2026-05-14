@@ -6,3 +6,21 @@
 
 # Задание
 Практикум состоит из 4 последовательных заданий (task_0, task_1, task_2, task_3). В каждой директории находится README.md с описанием самого задания и результатом выполнения задания.
+
+# Окружение
+
+Разработка и тестирование ведётся на локальном macbook (процессор apple silicon M2)
+
+## Первичная настройка окружения
+
+```bash
+/opt/homebrew/bin/python3.11 -m venv .venv
+source .venv/bin/activate
+pip install mrjob
+```
+
+## Дальнейшее использование
+
+```bash
+source .venv/bin/activate
+```
