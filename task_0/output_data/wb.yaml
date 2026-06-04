@@ -1,0 +1,4 @@
+- name: test
+  price: 100
+- name: test2
+  price: 200

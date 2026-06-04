@@ -1,0 +1,2263 @@
+[
+  {
+    "link": "https://www.ozon.ru/product/tsifrovoe-pianino-yamaha-p-45b-1904919386/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1904919386",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1904919386"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Синтезатор",
+                "link": "/category/tsifrovye-sintezatory/",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Черный матовый",
+                "key": "Color_0"
+              },
+              {
+                "text": "черный",
+                "key": "Color_1"
+              },
+              {
+                "text": "черно-серый",
+                "key": "Color_2"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "Yamaha",
+                "link": "/brand/yamaha-26303486/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovye-sintezatory-polnorazmernye/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovye-sintezatory-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Volume",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Splitter",
+                "key": "SoundEffects_1"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovye-sintezatory-s-reverbatsiey/",
+                "key": "SoundEffects_2"
+              },
+              {
+                "text": "Transpose",
+                "key": "SoundEffects_3"
+              },
+              {
+                "text": "Dual",
+                "key": "SoundEffects_4"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "10",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "64",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Метроном",
+                "link": "/category/sintezatory-s-metronomom/",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Транспонирование",
+                "link": "/category/sintezatory-s-transponirovaniem/",
+                "key": "FunctionMusKeyboard_1"
+              }
+            ]
+          },
+          {
+            "key": "TracksQty",
+            "name": "Количество треков записи, шт.",
+            "values": [
+              {
+                "text": "10",
+                "key": "TracksQty_0"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "6.3 мм",
+                "link": "/category/tsifrovye-sintezatory-s-vhodnym-interfeysom-6-3-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB Type-B",
+                "key": "Interface_1"
+              },
+              {
+                "text": "DC",
+                "key": "Interface_2"
+              }
+            ]
+          },
+          {
+            "key": "OSVersion",
+            "name": "Версия ОС",
+            "values": [
+              {
+                "text": "All Platforms",
+                "key": "OSVersion_0"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1326 х 154 х 295 мм",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "11500",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Япония",
+                "link": "/category/sintezatory-iz-yaponii/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/sintezatory-s-molotochkovoy-mehanikoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Возможность подключения педалей",
+                "link": "/category/tsifrovye-sintezatory-s-vozmozhnostyu-podklyucheniya-pedaley/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovye-sintezatory-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_2"
+              },
+              {
+                "text": "Встроенная акустическая система",
+                "key": "Features_3"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "В комплект входят:\\n1) Цифровое пианино yamaha P45B; \\n2) Педаль; \\n3) Пюпитр; \\n4) Блок питания на европейскую вилку.",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Цифровое пианино Yamaha P-45B",
+    "price": 54011
+  },
+  {
+    "link": "https://www.ozon.ru/product/tsifrovoe-pianino-yamaha-p-45b-1904919386/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1904919386",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1904919386"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Синтезатор",
+                "link": "/category/tsifrovye-sintezatory/",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Черный матовый",
+                "key": "Color_0"
+              },
+              {
+                "text": "черный",
+                "key": "Color_1"
+              },
+              {
+                "text": "черно-серый",
+                "key": "Color_2"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "Yamaha",
+                "link": "/brand/yamaha-26303486/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovye-sintezatory-polnorazmernye/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovye-sintezatory-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Volume",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Splitter",
+                "key": "SoundEffects_1"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovye-sintezatory-s-reverbatsiey/",
+                "key": "SoundEffects_2"
+              },
+              {
+                "text": "Transpose",
+                "key": "SoundEffects_3"
+              },
+              {
+                "text": "Dual",
+                "key": "SoundEffects_4"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "10",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "64",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Метроном",
+                "link": "/category/sintezatory-s-metronomom/",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Транспонирование",
+                "link": "/category/sintezatory-s-transponirovaniem/",
+                "key": "FunctionMusKeyboard_1"
+              }
+            ]
+          },
+          {
+            "key": "TracksQty",
+            "name": "Количество треков записи, шт.",
+            "values": [
+              {
+                "text": "10",
+                "key": "TracksQty_0"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "6.3 мм",
+                "link": "/category/tsifrovye-sintezatory-s-vhodnym-interfeysom-6-3-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB Type-B",
+                "key": "Interface_1"
+              },
+              {
+                "text": "DC",
+                "key": "Interface_2"
+              }
+            ]
+          },
+          {
+            "key": "OSVersion",
+            "name": "Версия ОС",
+            "values": [
+              {
+                "text": "All Platforms",
+                "key": "OSVersion_0"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1326 х 154 х 295 мм",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "11500",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Япония",
+                "link": "/category/sintezatory-iz-yaponii/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/sintezatory-s-molotochkovoy-mehanikoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Возможность подключения педалей",
+                "link": "/category/tsifrovye-sintezatory-s-vozmozhnostyu-podklyucheniya-pedaley/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovye-sintezatory-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_2"
+              },
+              {
+                "text": "Встроенная акустическая система",
+                "key": "Features_3"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "В комплект входят:\\n1) Цифровое пианино yamaha P45B; \\n2) Педаль; \\n3) Пюпитр; \\n4) Блок питания на европейскую вилку.",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Цифровое пианино Yamaha P-45B",
+    "price": 54011
+  },
+  {
+    "link": "https://www.ozon.ru/product/tsifrovoe-pianino-yamaha-p-45b-1904919386/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1904919386",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1904919386"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Синтезатор",
+                "link": "/category/tsifrovye-sintezatory/",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Черный матовый",
+                "key": "Color_0"
+              },
+              {
+                "text": "черный",
+                "key": "Color_1"
+              },
+              {
+                "text": "черно-серый",
+                "key": "Color_2"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "Yamaha",
+                "link": "/brand/yamaha-26303486/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovye-sintezatory-polnorazmernye/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovye-sintezatory-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Volume",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Splitter",
+                "key": "SoundEffects_1"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovye-sintezatory-s-reverbatsiey/",
+                "key": "SoundEffects_2"
+              },
+              {
+                "text": "Transpose",
+                "key": "SoundEffects_3"
+              },
+              {
+                "text": "Dual",
+                "key": "SoundEffects_4"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "10",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "64",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Метроном",
+                "link": "/category/sintezatory-s-metronomom/",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Транспонирование",
+                "link": "/category/sintezatory-s-transponirovaniem/",
+                "key": "FunctionMusKeyboard_1"
+              }
+            ]
+          },
+          {
+            "key": "TracksQty",
+            "name": "Количество треков записи, шт.",
+            "values": [
+              {
+                "text": "10",
+                "key": "TracksQty_0"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "6.3 мм",
+                "link": "/category/tsifrovye-sintezatory-s-vhodnym-interfeysom-6-3-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB Type-B",
+                "key": "Interface_1"
+              },
+              {
+                "text": "DC",
+                "key": "Interface_2"
+              }
+            ]
+          },
+          {
+            "key": "OSVersion",
+            "name": "Версия ОС",
+            "values": [
+              {
+                "text": "All Platforms",
+                "key": "OSVersion_0"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1326 х 154 х 295 мм",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "11500",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Япония",
+                "link": "/category/sintezatory-iz-yaponii/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/sintezatory-s-molotochkovoy-mehanikoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Возможность подключения педалей",
+                "link": "/category/tsifrovye-sintezatory-s-vozmozhnostyu-podklyucheniya-pedaley/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovye-sintezatory-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_2"
+              },
+              {
+                "text": "Встроенная акустическая система",
+                "key": "Features_3"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "В комплект входят:\\n1) Цифровое пианино yamaha P45B; \\n2) Педаль; \\n3) Пюпитр; \\n4) Блок питания на европейскую вилку.",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Цифровое пианино Yamaha P-45B",
+    "price": 54011
+  },
+  {
+    "link": "https://www.ozon.ru/product/tsifrovoe-pianino-rockdale-virtuoso-256-w-3254288547/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "3254288547",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "3254288547"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Белый",
+                "link": "/category/tsifrovoe-pianino-belogo-tsveta/",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "ROCKDALE",
+                "link": "/brand/rockdale-74130721/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovoe-fortepiano-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Chorus",
+                "link": "/category/tsifrovoe-fortepiano-so-zvukovymi-effektami-chorus/",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovoe-fortepiano-s-reverbatsiey/",
+                "key": "SoundEffects_1"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "8",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "256",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Метроном",
+                "link": "/category/tsifrovoe-fortepiano-s-metronom/",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Транспонирование",
+                "key": "FunctionMusKeyboard_1"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1370X790X310",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "34000",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "1 год",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/tsifrovoe-fortepiano-s-molotochkovoy-mehanikoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovoe-fortepiano-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_1"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "тройная педаль, стойка, блок питания и инструкция на русском языке",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Цифровое пианино ROCKDALE VIRTUOSO 256 W",
+    "price": 47343
+  },
+  {
+    "link": "https://www.ozon.ru/product/casio-cdp-s160rdc2-tsifrovoe-fortepiano-88-klavish-bez-b-p-ad-a12150lw-1566011897/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1566011897",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1566011897"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Красный",
+                "link": "/category/tsifrovoe-fortepiano-krasnoe/",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "Casio",
+                "link": "/brand/casio-26303060/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "1 год",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: CASIO CDP-S160RDC2 цифровое фортепиано, 88 клавиш, без б/п (AD-A12150LW)",
+    "price": 46904
+  },
+  {
+    "link": "https://www.ozon.ru/product/emily-piano-d-47-walnat-tsifrovoe-pianino-2703049920/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "2703049920",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "2703049920"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Коричневый",
+                "link": "/category/tsifrovoe-fortepiano-korichnevoe/",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "EMILY PIANO",
+                "link": "/brand/emily-piano-100212059/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "128",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "Model",
+            "name": "Партномер",
+            "values": [
+              {
+                "text": "MF02871",
+                "key": "Model_0"
+              }
+            ]
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "пианино, 4 ножки, блок из 3 педалей, адаптер питания, пюпитр",
+                "key": "Package_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "1 год",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: EMILY PIANO D-47 WALNAT Цифровое пианино",
+    "price": 30048
+  },
+  {
+    "link": "https://www.ozon.ru/product/tsifrovoe-pianino-v-korpuse-musichall-grazioso-s-molotochkovoy-vzveshennoy-klaviaturoy-tsvet-dereva-2581358189/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "2581358189",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "2581358189"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "MusicHall",
+                "link": "/brand/musichall-101235437/?all_items=true",
+                "key": "Brand_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovoe-fortepiano-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "128",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "3.5 мм",
+                "link": "/category/tsifrovoe-fortepiano-s-vhodnym-interfeysom-3-5-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB Type-A",
+                "key": "Interface_1"
+              },
+              {
+                "text": "DC",
+                "key": "Interface_2"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1400x484x360",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "39000",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "2 года",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Бежевый",
+                "key": "Color_0"
+              },
+              {
+                "text": "коричневый",
+                "link": "/category/tsifrovoe-fortepiano-korichnevoe/",
+                "key": "Color_1"
+              },
+              {
+                "text": "светло-коричневый",
+                "key": "Color_2"
+              },
+              {
+                "text": "темно-коричневый",
+                "key": "Color_3"
+              },
+              {
+                "text": "шоколадный",
+                "key": "Color_4"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Возможность подключения педалей",
+                "link": "/category/tsifrovoe-fortepiano-s-vozmozhnostyu-podklyucheniya-pedaley/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/tsifrovoe-fortepiano-s-molotochkovoy-mehanikoy/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovoe-fortepiano-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_2"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "Цифровое пианино в корпусе\\n\\nПюпитр для нот\\n\\nБлок из 3 педалей\\n\\nАдаптер питания\\n\\nГарантийный талон\\n\\nРуководство пользователя",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Цифровое пианино в корпусе MusicHall Grazioso, с молоточковой взвешенной клавиатурой, цвет дерева",
+    "price": 41685
+  },
+  {
+    "link": "https://www.ozon.ru/product/pianino-tsifrovoe-korpusnoe-pianova-ma-500-tsvet-belyy-stoyka-v-komplekte-1803089956/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1803089956",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1803089956"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Белый",
+                "link": "/category/tsifrovoe-pianino-belogo-tsveta/",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovoe-fortepiano-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Chorus",
+                "link": "/category/tsifrovoe-fortepiano-so-zvukovymi-effektami-chorus/",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovoe-fortepiano-s-reverbatsiey/",
+                "key": "SoundEffects_1"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "600",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "256",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Аккомпанемент",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Запись песен",
+                "key": "FunctionMusKeyboard_1"
+              },
+              {
+                "text": "Метроном",
+                "link": "/category/tsifrovoe-fortepiano-s-metronom/",
+                "key": "FunctionMusKeyboard_2"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "3.5 мм",
+                "link": "/category/tsifrovoe-fortepiano-s-vhodnym-interfeysom-3-5-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB",
+                "key": "Interface_1"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1360 х 440 х 840",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "44500",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "2 года",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Встроенная акустическая система",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennoy-akusticheskoy-sistemoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Встроенные педали",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennymi-pedalyami/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Информационный дисплей",
+                "key": "Features_2"
+              },
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/tsifrovoe-fortepiano-s-molotochkovoy-mehanikoy/",
+                "key": "Features_3"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovoe-fortepiano-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_4"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "Голова инструмента, педальный блок, стойка, адаптер питания, набор для сборки инструмента, тряпочка для протирания пыли, инструкция",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Пианино цифровое корпусное PIANOVA МА-500 , цвет белый, стойка в комплекте",
+    "price": 48604
+  },
+  {
+    "link": "https://www.ozon.ru/product/pianino-tsifrovoe-korpusnoe-pianova-ma-800-tsvet-chernyy-banketka-i-naushniki-v-komplekte-1670784997/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1670784997",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1670784997"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Черный",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovoe-fortepiano-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Chorus",
+                "link": "/category/tsifrovoe-fortepiano-so-zvukovymi-effektami-chorus/",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovoe-fortepiano-s-reverbatsiey/",
+                "key": "SoundEffects_1"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "1000",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "128",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Аккомпанемент",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Запись песен",
+                "key": "FunctionMusKeyboard_1"
+              },
+              {
+                "text": "Метроном",
+                "link": "/category/tsifrovoe-fortepiano-s-metronom/",
+                "key": "FunctionMusKeyboard_2"
+              },
+              {
+                "text": "Транспонирование",
+                "key": "FunctionMusKeyboard_3"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "6.3 мм",
+                "link": "/category/tsifrovoe-fortepiano-s-vhodnym-interfeysom-6-3-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB",
+                "key": "Interface_1"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1380 × 815 × 410",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "35000",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "2 года",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Встроенная акустическая система",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennoy-akusticheskoy-sistemoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Встроенные педали",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennymi-pedalyami/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Информационный дисплей",
+                "key": "Features_2"
+              },
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/tsifrovoe-fortepiano-s-molotochkovoy-mehanikoy/",
+                "key": "Features_3"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovoe-fortepiano-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_4"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "Голова инструмента, педальный блок, стойка, адаптер питания, наушники, банкетка, набор для сборки инструмента, инструкция",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Пианино цифровое корпусное PIANOVA МА-800 , цвет черный, банкетка и наушники в комплекте",
+    "price": 51872
+  },
+  {
+    "link": "https://www.ozon.ru/product/pianino-tsifrovoe-korpusnoe-pianova-ma-800-tsvet-chernyy-banketka-i-naushniki-v-komplekte-1670784997/features/",
+    "characteristics": [
+      {
+        "short": [
+          {
+            "key": "Sku",
+            "name": "Артикул",
+            "values": [
+              {
+                "text": "1670784997",
+                "key": "Sku"
+              }
+            ],
+            "copyText": "1670784997"
+          },
+          {
+            "key": "Type",
+            "name": "Тип",
+            "values": [
+              {
+                "text": "Цифровое фортепиано",
+                "key": "Type_0"
+              }
+            ]
+          },
+          {
+            "key": "Color",
+            "name": "Цвет",
+            "values": [
+              {
+                "text": "Черный",
+                "key": "Color_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysQtyUnique",
+            "name": "Количество клавиш, шт.",
+            "values": [
+              {
+                "text": "88",
+                "key": "KeysQtyUnique_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysSize",
+            "name": "Размер клавиш",
+            "values": [
+              {
+                "text": "Полноразмерные",
+                "link": "/category/tsifrovoe-fortepiano-polnorazmernoe/",
+                "key": "KeysSize_0"
+              }
+            ]
+          },
+          {
+            "key": "SynthesizerType",
+            "name": "Вид синтезатора",
+            "values": [
+              {
+                "text": "Цифровой",
+                "key": "SynthesizerType_0"
+              }
+            ]
+          },
+          {
+            "key": "KeysWeight",
+            "name": "Жесткость клавиатуры",
+            "values": [
+              {
+                "text": "Взвешенная",
+                "link": "/category/tsifrovoe-fortepiano-s-vzveshennoy-klaviaturoy/",
+                "key": "KeysWeight_0"
+              }
+            ]
+          },
+          {
+            "key": "SoundEffects",
+            "name": "Звуковые эффекты",
+            "values": [
+              {
+                "text": "Chorus",
+                "link": "/category/tsifrovoe-fortepiano-so-zvukovymi-effektami-chorus/",
+                "key": "SoundEffects_0"
+              },
+              {
+                "text": "Reverb",
+                "link": "/category/tsifrovoe-fortepiano-s-reverbatsiey/",
+                "key": "SoundEffects_1"
+              }
+            ]
+          },
+          {
+            "key": "Timbres",
+            "name": "Тембры",
+            "values": [
+              {
+                "text": "1000",
+                "key": "Timbres_0"
+              }
+            ]
+          },
+          {
+            "key": "PolyphonicRingtones",
+            "name": "Полифония",
+            "values": [
+              {
+                "text": "128",
+                "key": "PolyphonicRingtones_0"
+              }
+            ]
+          },
+          {
+            "key": "FunctionMusKeyboard",
+            "name": "Функции",
+            "values": [
+              {
+                "text": "Аккомпанемент",
+                "key": "FunctionMusKeyboard_0"
+              },
+              {
+                "text": "Запись песен",
+                "key": "FunctionMusKeyboard_1"
+              },
+              {
+                "text": "Метроном",
+                "link": "/category/tsifrovoe-fortepiano-s-metronom/",
+                "key": "FunctionMusKeyboard_2"
+              },
+              {
+                "text": "Транспонирование",
+                "key": "FunctionMusKeyboard_3"
+              }
+            ]
+          },
+          {
+            "key": "Interface",
+            "name": "Интерфейсы",
+            "values": [
+              {
+                "text": "6.3 мм",
+                "link": "/category/tsifrovoe-fortepiano-s-vhodnym-interfeysom-6-3-mm/",
+                "key": "Interface_0"
+              },
+              {
+                "text": "USB",
+                "key": "Interface_1"
+              }
+            ]
+          },
+          {
+            "key": "PowerVcol",
+            "name": "Вид питания",
+            "values": [
+              {
+                "text": "От сети 220В",
+                "key": "PowerVcol_0"
+              }
+            ]
+          },
+          {
+            "key": "Dimensions",
+            "name": "Размеры, мм",
+            "values": [
+              {
+                "text": "1380 × 815 × 410",
+                "key": "Dimensions_0"
+              }
+            ]
+          },
+          {
+            "key": "Weight",
+            "name": "Вес товара, г",
+            "values": [
+              {
+                "text": "35000",
+                "key": "Weight_0"
+              }
+            ]
+          },
+          {
+            "key": "WarrantyList",
+            "name": "Гарантия",
+            "values": [
+              {
+                "text": "2 года",
+                "key": "WarrantyList_0"
+              }
+            ]
+          },
+          {
+            "key": "Country",
+            "name": "Страна-изготовитель",
+            "values": [
+              {
+                "text": "Китай",
+                "link": "/category/tsifrovoe-fortepiano-proizvodstva-kitaya/",
+                "key": "Country_0"
+              }
+            ]
+          }
+        ],
+        "long": [
+          {
+            "key": "Features",
+            "name": "Особенности",
+            "values": [
+              {
+                "text": "Встроенная акустическая система",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennoy-akusticheskoy-sistemoy/",
+                "key": "Features_0"
+              },
+              {
+                "text": "Встроенные педали",
+                "link": "/category/tsifrovoe-fortepiano-so-vstroennymi-pedalyami/",
+                "key": "Features_1"
+              },
+              {
+                "text": "Информационный дисплей",
+                "key": "Features_2"
+              },
+              {
+                "text": "Молоточковая механика",
+                "link": "/category/tsifrovoe-fortepiano-s-molotochkovoy-mehanikoy/",
+                "key": "Features_3"
+              },
+              {
+                "text": "Чувствительные к скорости нажатия клавиши",
+                "link": "/category/tsifrovoe-fortepiano-chuvstvitelnye-k-skorosti-nazhatiya-klavishi/",
+                "key": "Features_4"
+              }
+            ],
+            "isLong": true
+          },
+          {
+            "key": "Package",
+            "name": "Комплектация",
+            "values": [
+              {
+                "text": "Голова инструмента, педальный блок, стойка, адаптер питания, наушники, банкетка, набор для сборки инструмента, инструкция",
+                "key": "Package_0"
+              }
+            ],
+            "isLong": true
+          }
+        ]
+      }
+    ],
+    "productTitle": "Характеристики: Пианино цифровое корпусное PIANOVA МА-800 , цвет черный, банкетка и наушники в комплекте",
+    "price": 51872
+  }
+]
