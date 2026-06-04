@@ -1,11 +1,17 @@
 import json
 import csv
+import copy
+from typing import Any
 from pathlib import Path
 
 import yaml
 
 
-def _parse_ozon_json_line(line: str) -> dict:
+# TODO: не забыть подменить циферки и что-нибудь ещё в дубликатах рукотворных
+# TODO: для WB url формировать потом в следующем задании. Там легко. https://www.wildberries.ru/catalog/{nm_id}/detail.aspx
+
+
+def _parse_ozon_json_line(line: str) -> dict[str, Any]:
     json_str = line.split(':', 1)[1]
     if json_str.endswith(','):
         json_str = json_str[:-1]
@@ -23,8 +29,7 @@ def _parse_ozon_json_line(line: str) -> dict:
 
     return obj
 
-
-def parse_ozon():
+def parse_ozon() -> list[dict[str, Any]]:
     with open(Path(__file__).parent / 'input_data' / 'ozon.txt', 'r') as fin:
         lines = fin.readlines()
 
@@ -38,13 +43,18 @@ def parse_ozon():
     return result
 
 
-def parse_wb():
+def _parse_wb_single_obj(obj: dict[str, Any]) -> dict[str, Any]:
+    new_obj = copy.deepcopy(obj)
+    # TODO: здесь что-нибудь повыкидываем обязательно
+    return new_obj
+
+def parse_wb() -> list[dict[str, Any]]:
+    with open(Path(__file__).parent / 'input_data' / 'wb.json', 'r') as fin:
+        data = json.load(fin)
+    return [_parse_wb_single_obj(obj) for obj in data]
+
+def parse_ym() -> list[dict[str, Any]]:
     return [{'price': 100, 'name': 'test'}, {'price': 200, 'name': 'test2'}]
-
-
-def parse_ym():
-    return [{'price': 100, 'name': 'test'}, {'price': 200, 'name': 'test2'}]
-
 
 def main():
     ozon_data = parse_ozon()
@@ -60,6 +70,7 @@ def main():
         writer = csv.DictWriter(fout, fieldnames=ym_data[0].keys())
         writer.writeheader()
         writer.writerows(ym_data)
+
 
 if __name__ == '__main__':
     main()
