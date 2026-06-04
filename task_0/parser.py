@@ -8,6 +8,7 @@ import yaml
 
 
 # TODO: не забыть подменить циферки и что-нибудь ещё в дубликатах рукотворных
+# TODO: можно для дублей специально выставить нуловый урл, чтобы мы их нашли во время резолва
 # TODO: для WB url формировать потом в следующем задании. Там легко. https://www.wildberries.ru/catalog/{nm_id}/detail.aspx
 
 
@@ -53,8 +54,16 @@ def parse_wb() -> list[dict[str, Any]]:
         data = json.load(fin)
     return [_parse_wb_single_obj(obj) for obj in data]
 
+
+def _parse_ym_single_obj(obj: dict[str, Any]) -> dict[str, Any]:
+    new_obj = copy.deepcopy(obj)
+    # TODO: здесь что-нибудь повыкидываем обязательно
+    return new_obj
+
 def parse_ym() -> list[dict[str, Any]]:
-    return [{'price': 100, 'name': 'test'}, {'price': 200, 'name': 'test2'}]
+    with open(Path(__file__).parent / 'input_data' / 'ym.json', 'r') as fin:
+        data = json.load(fin)
+    return [_parse_ym_single_obj(obj) for obj in data]
 
 def main():
     ozon_data = parse_ozon()
@@ -67,7 +76,10 @@ def main():
 
     ym_data = parse_ym()
     with open(Path(__file__).parent / 'output_data' / 'ym.csv', 'w', newline='') as fout:
-        writer = csv.DictWriter(fout, fieldnames=ym_data[0].keys())
+        fieldnames = set()
+        for obj in ym_data:
+            fieldnames.update(obj.keys())
+        writer = csv.DictWriter(fout, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(ym_data)
 
