@@ -1,0 +1,216 @@
+{
+  "cluster_count": 7,
+  "duplicate_record_count": 21,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "size": 7,
+      "members": [
+        {
+          "rec_id": "ozon#1",
+          "marketplace": "ozon",
+          "source_id": "1904919386",
+          "title": "Цифровое пианино Yamaha P-45B",
+          "brand": "yamaha",
+          "model": "P-45B"
+        },
+        {
+          "rec_id": "ozon#6",
+          "marketplace": "ozon",
+          "source_id": "1904919386",
+          "title": "Цифровое пианино Yamaha P-45B",
+          "brand": "yamaha",
+          "model": "P-45B"
+        },
+        {
+          "rec_id": "ozon#9",
+          "marketplace": "ozon",
+          "source_id": "1904919386",
+          "title": "Цифровое пианино Yamaha P-45B",
+          "brand": "yamaha",
+          "model": "P-45B"
+        },
+        {
+          "rec_id": "wb#5",
+          "marketplace": "wb",
+          "source_id": "0",
+          "title": "Yamaha P-45B Цифровое пианино",
+          "brand": "yamaha",
+          "model": "p-45b"
+        },
+        {
+          "rec_id": "wb#8",
+          "marketplace": "wb",
+          "source_id": "189590233",
+          "title": "Yamaha P-45B Цифровое пианино",
+          "brand": "yamaha",
+          "model": "p-45b"
+        },
+        {
+          "rec_id": "ym#5",
+          "marketplace": "ym",
+          "source_id": "103479325071",
+          "title": "Пианино цифровое Yamaha P-45 B",
+          "brand": "yamaha",
+          "model": "P-45 B"
+        },
+        {
+          "rec_id": "ym#8",
+          "marketplace": "ym",
+          "source_id": "103479325071",
+          "title": "Пианино цифровое Yamaha P-45 B",
+          "brand": "yamaha",
+          "model": "P-45 B"
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 3,
+      "members": [
+        {
+          "rec_id": "wb#4",
+          "marketplace": "wb",
+          "source_id": "0",
+          "title": "Синтезатор c подсветкой и аксессуарами YARGO KEY 330L PACK",
+          "brand": "yargo",
+          "model": "A195770"
+        },
+        {
+          "rec_id": "wb#7",
+          "marketplace": "wb",
+          "source_id": "245040057",
+          "title": "Синтезатор c подсветкой и аксессуарами YARGO KEY 330L PACK",
+          "brand": "yargo",
+          "model": "A195770"
+        },
+        {
+          "rec_id": "wb#9",
+          "marketplace": "wb",
+          "source_id": "0",
+          "title": "Синтезатор c подсветкой и аксессуарами YARGO KEY 330L PACK",
+          "brand": "yargo",
+          "model": "A195770"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "members": [
+        {
+          "rec_id": "ym#4",
+          "marketplace": "ym",
+          "source_id": "102190019324",
+          "title": "Цифровое пианино Kurzweil M90 WH белое, с банкеткой, молоточковая механика",
+          "brand": "kurzweil",
+          "model": "M90 WH белое"
+        },
+        {
+          "rec_id": "ym#7",
+          "marketplace": "ym",
+          "source_id": "102190019324",
+          "title": "Цифровое пианино Kurzweil M90 WH белое, с банкеткой, молоточковая механика",
+          "brand": "kurzweil",
+          "model": "M90 WH белое"
+        },
+        {
+          "rec_id": "ym#9",
+          "marketplace": "ym",
+          "source_id": "102190019324",
+          "title": "Цифровое пианино Kurzweil M90 WH белое, с банкеткой, молоточковая механика",
+          "brand": "kurzweil",
+          "model": "M90 WH белое"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "members": [
+        {
+          "rec_id": "ozon#2",
+          "marketplace": "ozon",
+          "source_id": "3254288547",
+          "title": "Цифровое пианино ROCKDALE VIRTUOSO 256 W",
+          "brand": "rockdale",
+          "model": "VIRTUOSO 256 W"
+        },
+        {
+          "rec_id": "wb#2",
+          "marketplace": "wb",
+          "source_id": "712073188",
+          "title": "Цифровое пианино ROCKDALE VIRTUOSO 256 W",
+          "brand": "rockdale",
+          "model": "A222744"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "members": [
+        {
+          "rec_id": "ozon#3",
+          "marketplace": "ozon",
+          "source_id": "1566011897",
+          "title": "CASIO CDP-S160RDC2 цифровое фортепиано, 88 клавиш, без б/п (AD-A12150LW)",
+          "brand": "casio",
+          "model": "CDP-S160RDC2"
+        },
+        {
+          "rec_id": "ym#3",
+          "marketplace": "ym",
+          "source_id": "103160566352",
+          "title": "Цифровое фортепиано CASIO CDP-S160RDC2, 88 клавиш, без б/п, красный",
+          "brand": "casio",
+          "model": "CDP-S160RDC2"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "members": [
+        {
+          "rec_id": "ozon#5",
+          "marketplace": "ozon",
+          "source_id": "1670784997",
+          "title": "Пианино цифровое корпусное PIANOVA МА-800 , цвет черный, банкетка и наушники в комплекте",
+          "brand": "pianova",
+          "model": "корпусное МА-800"
+        },
+        {
+          "rec_id": "ozon#8",
+          "marketplace": "ozon",
+          "source_id": "1670784997",
+          "title": "Пианино цифровое корпусное PIANOVA МА-800 , цвет черный, банкетка и наушники в комплекте",
+          "brand": "pianova",
+          "model": "корпусное МА-800"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "members": [
+        {
+          "rec_id": "wb#1",
+          "marketplace": "wb",
+          "source_id": "221815063",
+          "title": "Yamaha P-145B Цифровое фортепиано",
+          "brand": "yamaha",
+          "model": "p-145b"
+        },
+        {
+          "rec_id": "ym#1",
+          "marketplace": "ym",
+          "source_id": "102384501726",
+          "title": "Цифровое пианино Yamaha P-145B",
+          "brand": "yamaha",
+          "model": "P-145B"
+        }
+      ]
+    }
+  ]
+}

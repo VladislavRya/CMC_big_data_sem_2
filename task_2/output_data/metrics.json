@@ -1,0 +1,13 @@
+{
+  "true_positive": 31,
+  "false_positive": 0,
+  "false_negative": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "gold_pair_count": 31,
+  "pred_pair_count": 31,
+  "missed_pairs": [],
+  "spurious_pairs": [],
+  "threshold": 0.6
+}

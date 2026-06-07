@@ -1,0 +1,32 @@
+{
+  "clusters": [
+    {
+      "name": "Yamaha P-45B",
+      "members": ["ozon#1", "ozon#6", "ozon#9", "wb#5", "wb#8", "ym#5", "ym#8"]
+    },
+    {
+      "name": "Yamaha P-145B",
+      "members": ["wb#1", "ym#1"]
+    },
+    {
+      "name": "Rockdale Virtuoso 256 W",
+      "members": ["ozon#2", "wb#2"]
+    },
+    {
+      "name": "CASIO CDP-S160RDC2",
+      "members": ["ozon#3", "ym#3"]
+    },
+    {
+      "name": "PIANOVA МА-800",
+      "members": ["ozon#5", "ozon#8"]
+    },
+    {
+      "name": "Kurzweil M90 WH",
+      "members": ["ym#4", "ym#7", "ym#9"]
+    },
+    {
+      "name": "YARGO KEY 330L",
+      "members": ["wb#4", "wb#7", "wb#9"]
+    }
+  ]
+}
