@@ -459,7 +459,7 @@
   media:
     photo_count: 4
   nm_colors_names: черный
-  nm_id: 189590233
+  nm_id: 0
   options:
   - charc_type: 1
     is_variable: true
@@ -511,7 +511,7 @@
     value: 26 см
   - name: Ширина упаковки
     value: 38 см
-  price: 57494
+  price: 58494
   selling:
     brand_hash: 877324566DF0B7
     brand_name: Yamaha
@@ -1759,7 +1759,7 @@
   media:
     photo_count: 21
   nm_colors_names: черный
-  nm_id: 245040057
+  nm_id: 0
   options:
   - charc_type: 1
     name: Модель
@@ -1832,7 +1832,7 @@
     value: 26 см
   - name: Ширина упаковки
     value: 39 см
-  price: 21350
+  price: 22350
   selling:
     brand_hash: 4EFCA4416F83AE6D
     brand_name: YARGO
@@ -1988,7 +1988,7 @@
   media:
     photo_count: 21
   nm_colors_names: черный
-  nm_id: 245040057
+  nm_id: 0
   options:
   - charc_type: 1
     name: Модель
@@ -2061,7 +2061,7 @@
     value: 26 см
   - name: Ширина упаковки
     value: 39 см
-  price: 21350
+  price: 23350
   selling:
     brand_hash: 4EFCA4416F83AE6D
     brand_name: YARGO

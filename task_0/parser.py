@@ -8,7 +8,7 @@ import yaml
 
 
 # TODO: не забыть подменить циферки и что-нибудь ещё в дубликатах рукотворных
-# TODO: можно для дублей специально выставить нуловый урл, чтобы мы их нашли во время резолва
+# TODO: можно для дублей специально выставить FAKE урл, чтобы мы их нашли во время резолва
 # TODO: для WB url формировать потом в следующем задании. Там легко. https://www.wildberries.ru/catalog/{nm_id}/detail.aspx
 
 
@@ -20,6 +20,7 @@ def _parse_ozon_json_line(line: str) -> dict[str, Any]:
     if json_str.startswith('"') and json_str.endswith('"'):
         json_str = json_str[1:-1]
     json_str = json_str.replace('\\"', '"')
+    print(json_str)
     obj = json.loads(json_str)
     obj.pop('totalCount')
     obj.pop('lexemes')
@@ -79,7 +80,7 @@ def main():
         fieldnames = set()
         for obj in ym_data:
             fieldnames.update(obj.keys())
-        writer = csv.DictWriter(fout, fieldnames=fieldnames)
+        writer = csv.DictWriter(fout, fieldnames=sorted(fieldnames))
         writer.writeheader()
         writer.writerows(ym_data)
 

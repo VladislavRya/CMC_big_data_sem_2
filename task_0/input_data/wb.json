@@ -236,9 +236,9 @@
         ]
     },
     {
-        "price": 57494,
+        "price": 58494,
         "imt_id": 172197677,
-        "nm_id": 189590233,
+        "nm_id": 0,
         "imt_name": "Yamaha P-45B Цифровое пианино",
         "slug": "yamaha-p-45b-tsifrovoe-pianino",
         "subj_name": "Пианино цифровое",
@@ -1961,9 +1961,9 @@
         "create_date": "2024-07-17T10:39:36.841731Z"
     },
     {
-        "price": 21350,
+        "price": 22350,
         "imt_id": 194034548,
-        "nm_id": 245040057,
+        "nm_id": 0,
         "imt_name": "Синтезатор c подсветкой и аксессуарами YARGO KEY 330L PACK",
         "slug": "sintezator-c-podsvetkoj-i-aksessuarami-yargo-key-330l-pack",
         "subj_name": "Синтезаторы",
@@ -2310,9 +2310,9 @@
         "create_date": "2024-07-17T10:39:36.841731Z"
     },
     {
-        "price": 21350,
+        "price": 23350,
         "imt_id": 194034548,
-        "nm_id": 245040057,
+        "nm_id": 0,
         "imt_name": "Синтезатор c подсветкой и аксессуарами YARGO KEY 330L PACK",
         "slug": "sintezator-c-podsvetkoj-i-aksessuarami-yargo-key-330l-pack",
         "subj_name": "Синтезаторы",
