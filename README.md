@@ -24,3 +24,8 @@ pip install mrjob
 ```bash
 source .venv/bin/activate
 ```
+
+## Запуск
+
+Можно запускать run.py в каждом отдельном задании
+Можно запустить run_all.py и тогда прогонятся все задания
