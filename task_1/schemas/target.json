@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {"name": "marketplace",  "type": "string",         "description": "Тег маркетплейса-источника: 'ozon', 'wb' или 'ym'"},
+    {"name": "source_id",    "type": "string",         "description": "Идентификатор товара в системе маркетплейса"},
+    {"name": "url",          "type": "string",         "description": "URL. 'FAKE' сохраняется для синтетических дубликатов"},
+    {"name": "title",        "type": "string",         "description": "Исходное название товара (префикс Ozon 'Характеристики: ' удалён)"},
+    {"name": "description",  "type": "string | null",  "description": "Длинное описание товара. Источник предоставляет его только WB; для Ozon и YM — null"},
+    {"name": "brand",        "type": "string",         "description": "Название бренда в нижнем регистре"},
+    {"name": "model",        "type": "string",         "description": "Идентификатор модели. Эвристика: заголовок минус бренд минус общие служебные слова"},
+    {"name": "price_rub",    "type": "integer",        "description": "Цена в рублях"},
+    {"name": "color",        "type": "string",         "description": "Цвет в нижнем регистре"},
+    {"name": "keys_count",   "type": "integer | null", "description": "Количество клавиш"},
+    {"name": "keys_size",    "type": "string | null",  "description": "Категория размера клавиш, напр. 'полноразмерные'"},
+    {"name": "keys_weight",  "type": "string | null",  "description": "Взвешивание / механика клавиш, напр. 'взвешенная', 'молоточковая'"},
+    {"name": "polyphony",    "type": "integer | null", "description": "Полифония"},
+    {"name": "timbres",      "type": "integer | null", "description": "Количество встроенных тембров"},
+    {"name": "weight_kg",    "type": "number | null",  "description": "Вес в килограммах"},
+    {"name": "width_mm",     "type": "integer | null", "description": "Ширина в миллиметрах"},
+    {"name": "height_mm",    "type": "integer | null", "description": "Высота в миллиметрах"},
+    {"name": "depth_mm",     "type": "integer | null", "description": "Глубина в миллиметрах"},
+    {"name": "country",      "type": "string | null",  "description": "Страна производства"}
+  ]
+}

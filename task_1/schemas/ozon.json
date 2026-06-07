@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {"name": "link",            "type": "string",  "description": "URL страницы или 'FAKE' для синтетических дубликатов"},
+    {"name": "productTitle",    "type": "string",  "description": "Название товара, напр. 'Характеристики: Цифровое пианино Yamaha P-45B'"},
+    {"name": "price",           "type": "integer", "description": "Цена в рублях"},
+    {"name": "characteristics", "type": "array",   "description": "Массив из одного элемента, оборачивающий блок характеристик"}
+  ],
+  "characteristics_block": {
+    "fields": [
+      {"name": "short", "type": "array of entry", "description": "Краткие атрибуты (напр. Sku, Color, Brand, KeysQtyUnique, Dimensions, Weight, Country)"},
+      {"name": "long",  "type": "array of entry", "description": "Развёрнутые атрибуты (напр. Features, Package). Может также содержать Color, если он не поместился в краткий список"}
+    ]
+  },
+  "entry": {
+    "fields": [
+      {"name": "key",    "type": "string",        "description": "Используется для поиска атрибута."},
+      {"name": "name",   "type": "string",        "description": "Отображаемое название на русском"},
+      {"name": "values", "type": "array of value","description": "Одно или несколько значений"}
+    ]
+  },
+  "value": {
+    "fields": [
+      {"name": "text", "type": "string", "description": "Значение в том виде, как отображается (число, название цвета и т.д.)"}
+    ]
+  }
+}

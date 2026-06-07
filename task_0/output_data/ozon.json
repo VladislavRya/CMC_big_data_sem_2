@@ -1265,6 +1265,15 @@
             ]
           },
           {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "PIANOVA"
+              }
+            ]
+          },
+          {
             "key": "KeysQtyUnique",
             "name": "Количество клавиш, шт.",
             "values": [
@@ -1469,6 +1478,15 @@
             "values": [
               {
                 "text": "Черный"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "PIANOVA"
               }
             ]
           },
@@ -1680,6 +1698,15 @@
             "values": [
               {
                 "text": "Черный"
+              }
+            ]
+          },
+          {
+            "key": "Brand",
+            "name": "Бренд",
+            "values": [
+              {
+                "text": "PIANOVA"
               }
             ]
           },

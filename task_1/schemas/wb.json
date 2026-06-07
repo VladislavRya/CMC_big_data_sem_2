@@ -1,0 +1,30 @@
+{
+  "fields": [
+    {"name": "price",            "type": "integer", "description": "Цена в рублях"},
+    {"name": "imt_id",           "type": "integer", "description": "Id карточки товара WB (каталожная карточка)"},
+    {"name": "nm_id",            "type": "integer", "description": "Id варианта товара WB (используется в публичном URL https://www.wildberries.ru/catalog/{nm_id}/detail.aspx)"},
+    {"name": "imt_name",         "type": "string",  "description": "Название товара"},
+    {"name": "subj_name",        "type": "string",  "description": "Название предмета WB (лист категории)"},
+    {"name": "subj_root_name",   "type": "string",  "description": "Корневое название предмета WB"},
+    {"name": "vendor_code",      "type": "string",  "description": "Код модели от производителя, напр. 'p-45b'. Считается идентификатором модели"},
+    {"name": "description",      "type": "string",  "description": "Развёрнутое описание товара"},
+    {"name": "nm_colors_names",  "type": "string",  "description": "Названия цветов варианта через запятую"},
+    {"name": "contents",         "type": "string",  "description": "Комплектация"},
+    {"name": "options",          "type": "array of option", "description": "Плоский список строк атрибутов (name, value)"},
+    {"name": "selling",          "type": "object",  "description": "Метаданные продавца: brand_name, supplier_id"}
+  ],
+  "option": {
+    "fields": [
+      {"name": "name",       "type": "string", "description": "Отображаемое название атрибута"},
+      {"name": "value",      "type": "string", "description": "Значение атрибута в виде строки. Размеры указываются по осям с единицами, напр. '132.6 см'"},
+      {"name": "charc_type", "type": "integer","description": "Внутренний код типа характеристики WB"},
+      {"name": "is_variable","type": "boolean","description": "Может ли атрибут различаться у вариантов одного imt_id"}
+    ]
+  },
+  "selling": {
+    "fields": [
+      {"name": "brand_name",  "type": "string", "description": "Бренд"},
+      {"name": "supplier_id", "type": "integer","description": "Id продавца WB"}
+    ]
+  }
+}
