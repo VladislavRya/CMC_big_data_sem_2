@@ -7,10 +7,19 @@ from pathlib import Path
 import yaml
 
 
-# TODO: не забыть подменить циферки и что-нибудь ещё в дубликатах рукотворных
-# TODO: можно для дублей специально выставить FAKE урл, чтобы мы их нашли во время резолва
 # TODO: для WB url формировать потом в следующем задании. Там легко. https://www.wildberries.ru/catalog/{nm_id}/detail.aspx
 
+
+def _clean_ozon_characteristics(characteristics: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    for block in characteristics:
+        for section_key in ('short', 'long'):
+            for entry in block.get(section_key, []):
+                entry.pop('copyText', None)
+                entry.pop('isLong', None)
+                for value in entry.get('values', []):
+                    value.pop('key', None)
+                    value.pop('link', None)
+    return characteristics
 
 def _parse_ozon_json_line(line: str) -> dict[str, Any]:
     json_str = line.split(':', 1)[1]
@@ -20,15 +29,12 @@ def _parse_ozon_json_line(line: str) -> dict[str, Any]:
     if json_str.startswith('"') and json_str.endswith('"'):
         json_str = json_str[1:-1]
     json_str = json_str.replace('\\"', '"')
-    print(json_str)
     obj = json.loads(json_str)
     obj.pop('totalCount')
     obj.pop('lexemes')
     obj.pop('cellTrackingInfo')
     obj.pop('params')
-
-    # TODO: здесь наверное мы хотим ещё что-то сделать с характеристиками
-
+    _clean_ozon_characteristics(obj.get('characteristics', []))
     return obj
 
 def parse_ozon() -> list[dict[str, Any]]:
@@ -45,9 +51,27 @@ def parse_ozon() -> list[dict[str, Any]]:
     return result
 
 
+_WB_DROP_TOP_LEVEL = (
+    'markdown_description',
+    'grouped_options',
+    'certificate',
+    'media',
+    'data',
+    'colors',
+    'full_colors',
+    'slug',
+)
+_WB_DROP_OPTION_FIELDS = ('variable_value_IDs', 'variable_values')
+
 def _parse_wb_single_obj(obj: dict[str, Any]) -> dict[str, Any]:
     new_obj = copy.deepcopy(obj)
-    # TODO: здесь что-нибудь повыкидываем обязательно
+    for field in _WB_DROP_TOP_LEVEL:
+        new_obj.pop(field, None)
+    if isinstance(new_obj.get('selling'), dict):
+        new_obj['selling'].pop('brand_hash', None)
+    for option in new_obj.get('options', []):
+        for field in _WB_DROP_OPTION_FIELDS:
+            option.pop(field, None)
     return new_obj
 
 def parse_wb() -> list[dict[str, Any]]:
@@ -58,7 +82,7 @@ def parse_wb() -> list[dict[str, Any]]:
 
 def _parse_ym_single_obj(obj: dict[str, Any]) -> dict[str, Any]:
     new_obj = copy.deepcopy(obj)
-    # TODO: здесь что-нибудь повыкидываем обязательно
+    new_obj.pop('цвет_товара', None)
     return new_obj
 
 def parse_ym() -> list[dict[str, Any]]:
